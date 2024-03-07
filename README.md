@@ -112,6 +112,8 @@ else:
 ```
 ### Output:
 
+![OP1](https://github.com/JaisonRaphael/WDM_EXP3/assets/94165957/604d1e7f-41ca-44f6-afaa-d6e115b7203c)
+
 ### Visualization:
 ```python
 import matplotlib.pyplot as plt
@@ -139,6 +141,10 @@ visualize_patterns_line(bottom_wear_result, 'Bottom Wear')
 visualize_patterns_line(party_wear_result, 'Party Wear')
 ```
 ### Output:
+
+![OP2](https://github.com/JaisonRaphael/WDM_EXP3/assets/94165957/3881fc21-4a8c-4fd0-9c83-3f6bea166b2f)
+
+![OP3](https://github.com/JaisonRaphael/WDM_EXP3/assets/94165957/f1496db8-bada-43e0-bef9-cddf367b2a45)
 
 
 ### Result:
